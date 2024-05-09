@@ -1,0 +1,1 @@
+import React, { useState } from React; // usa estados locais em componentes funcionais
